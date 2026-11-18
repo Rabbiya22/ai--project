@@ -8,6 +8,11 @@ The AI-Based Gym Workout Planner is a Python project that automatically generate
 The system takes the user's age and preferred gym days as input. It distributes nine primary muscle groups across the selected days and selects suitable exercises for each session.
 
 The main purpose is to demonstrate how AI search techniques can solve a scheduling and selection problem while following predefined constraints.
+members name                    rollno 
+Gul e sameen                    281131233
+tayyba yahya                    280057658
+Rabbiya Asad                    281172264
+
 
 ## 2. Project Objectives
 
